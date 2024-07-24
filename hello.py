@@ -1,3 +1,2 @@
-print('Hello World')
-
-print('This is Geeth Vishnu')
+import streamlit as st
+st.title('Hello world')
